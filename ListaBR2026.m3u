@@ -354,11 +354,11 @@ http://sinalmycn.com:80/632035/GqGcFV4ntu/18024
 http://sinalmycn.com:80/632035/GqGcFV4ntu/18025
 #EXTINF:-1 tvg-id="São.Paulo/SP..Globo.HD.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Abertos",Globo São Paulo SD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/18026
-#EXTINF:-1 tvg-id="Record TV São Paulo FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Abertos",Record TV São Paulo FHD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Record.HD.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Abertos",Record TV São Paulo FHD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/27060
-#EXTINF:-1 tvg-id="Record TV São Paulo HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Abertos",Record TV São Paulo HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Record.HD.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Abertos",Record TV São Paulo HD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/27061
-#EXTINF:-1 tvg-id="Record TV São Paulo SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Abertos",Record TV São Paulo SD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Record.HD.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Abertos",Record TV São Paulo SD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/27062
 #EXTINF:-1 tvg-id="BSão.Paulo/SP..Band.HD.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="Canais | Abertos",Band São Paulo FHD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/28021
@@ -718,11 +718,11 @@ http://sinalmycn.com:80/632035/GqGcFV4ntu/25009
 http://sinalmycn.com:80/632035/GqGcFV4ntu/25010
 #EXTINF:-1 tvg-id="Jovem Pan News SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/jpnews.png" group-title="Canais | Notícias",Jovem Pan News SD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/25011
-#EXTINF:-1 tvg-id="Record News FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News FHD
+#EXTINF:-1 tvg-id="São.Paulo/SP.Record.News.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News FHD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/25012
-#EXTINF:-1 tvg-id="Record News HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News HD
+#EXTINF:-1 tvg-id="São.Paulo/SP.Record.News.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News HD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/25013
-#EXTINF:-1 tvg-id="Record News SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News SD
+#EXTINF:-1 tvg-id="São.Paulo/SP.Record.News.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News SD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/25014
 #EXTINF:-1 tvg-id="CNN Money FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/cnnmoney.png" group-title="Canais | Notícias",CNN Money FHD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/25015
