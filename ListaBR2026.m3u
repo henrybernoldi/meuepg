@@ -235,11 +235,11 @@ http://sinalmycn.com:80/632035/GqGcFV4ntu/13054
 http://sinalmycn.com:80/632035/GqGcFV4ntu/13055
 #EXTINF:-1 tvg-id="São.Paulo/SP..TCM.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/tcm.png" group-title="Canais | Filmes e Séries",TCM SD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/13056
-#EXTINF:-1 tvg-id="São.Paulo/SP..Film&amp;Arts.HD.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/filmarts.png" group-title="Canais | Filmes e Séries",Film & Arts FHD
+#EXTINF:-1 tvg-id="Campinas/SP..Film&amp;Arts.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/filmarts.png" group-title="Canais | Filmes e Séries",Film & Arts FHD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/13057
-#EXTINF:-1 tvg-id="São.Paulo/SP..Film&amp;Arts.HD.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/filmarts.png" group-title="Canais | Filmes e Séries",Film & Arts HD
+#EXTINF:-1 tvg-id="Campinas/SP..Film&amp;Arts.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/filmarts.png" group-title="Canais | Filmes e Séries",Film & Arts HD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/13058
-#EXTINF:-1 tvg-id="São.Paulo/SP..Film&amp;Arts.HD.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/filmarts.png" group-title="Canais | Filmes e Séries",Film & Arts SD
+#EXTINF:-1 tvg-id="Campinas/SP..Film&amp;Arts.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/filmarts.png" group-title="Canais | Filmes e Séries",Film & Arts SD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/13059
 #EXTINF:-1 tvg-id="São.Paulo/SP..HBO.HD.³.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/hbo.png" group-title="Canais | HBO",HBO FHD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/14000
@@ -325,11 +325,11 @@ http://sinalmycn.com:80/632035/GqGcFV4ntu/15015
 http://sinalmycn.com:80/632035/GqGcFV4ntu/15016
 #EXTINF:-1 tvg-id="São.Paulo/SP..Telecine.Touch.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch SD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/15017
-#EXTINF:-1 tvg-id="TV.Cultura.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/cultura.png" group-title="Canais | Abertos",Cultura FHD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Cultura.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/cultura.png" group-title="Canais | Abertos",Cultura FHD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/17003
-#EXTINF:-1 tvg-id="TV.Cultura.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/cultura.png" group-title="Canais | Abertos",Cultura HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Cultura.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/cultura.png" group-title="Canais | Abertos",Cultura HD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/17004
-#EXTINF:-1 tvg-id="TV.Cultura.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/cultura.png" group-title="Canais | Abertos",Cultura SD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Cultura.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/cultura.png" group-title="Canais | Abertos",Cultura SD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/17005
 #EXTINF:-1 tvg-id="São.Paulo/SP..Futura.HD.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/futura.png" group-title="Canais | Abertos",Futura FHD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/17006
@@ -361,15 +361,15 @@ http://sinalmycn.com:80/632035/GqGcFV4ntu/27060
 http://sinalmycn.com:80/632035/GqGcFV4ntu/27061
 #EXTINF:-1 tvg-id="São.Paulo/SP..Record.HD.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/record.png" group-title="Canais | Abertos",Record TV São Paulo SD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/27062
-#EXTINF:-1 tvg-id="BSão.Paulo/SP..Band.HD.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="Canais | Abertos",Band São Paulo FHD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Band.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="Canais | Abertos",Band São Paulo FHD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/28021
-#EXTINF:-1 tvg-id="São.Paulo/SP..Band.HD.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="Canais | Abertos",Band São Paulo HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Band.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="Canais | Abertos",Band São Paulo HD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/28022
 #EXTINF:-1 tvg-id="São.Paulo/SP..Band.HD.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/band.png" group-title="Canais | Abertos",Band São Paulo SD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/28023
-#EXTINF:-1 tvg-id="Canal do Boi" tvg-logo="https://www.fontedecanais.tv/logos/canais/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi
+#EXTINF:-1 tvg-id="São.Paulo/SP..Canal.do.Boi.br" tvg-logo="https://www.fontedecanais.tv/logos/canais/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi
 http://sinalmycn.com:80/632035/GqGcFV4ntu/17042
-#EXTINF:-1 tvg-id="Canal Rural" tvg-logo="https://www.fontedecanais.tv/logos/canais/canalrural.png" group-title="Canais | Abertos",Canal Rural
+#EXTINF:-1 tvg-id="São.Paulo/SP..Canal.Rural.br" tvg-logo="https://www.fontedecanais.tv/logos/canais/canalrural.png" group-title="Canais | Abertos",Canal Rural
 http://sinalmycn.com:80/632035/GqGcFV4ntu/17043
 #EXTINF:-1 tvg-id="São.Paulo/SP..TV.Brasil.br" tvg-logo="https://www.fontedecanais.tv/logos/canais/tvbrasil.png" group-title="Canais | Abertos",TV Brasil
 http://sinalmycn.com:80/632035/GqGcFV4ntu/17044
@@ -377,7 +377,7 @@ http://sinalmycn.com:80/632035/GqGcFV4ntu/17044
 http://sinalmycn.com:80/632035/GqGcFV4ntu/17045
 #EXTINF:-1 tvg-id="São.Paulo/SP..TV.Justiça.br" tvg-logo="https://www.fontedecanais.tv/logos/canais/tvjustica.png" group-title="Canais | Abertos",TV Justica e Radio Justica
 http://sinalmycn.com:80/632035/GqGcFV4ntu/17046
-#EXTINF:-1 tvg-id="TV Senado" tvg-logo="https://www.fontedecanais.tv/logos/canais/tvsenado.png" group-title="Canais | Abertos",TV Senado
+#EXTINF:-1 tvg-id="São.Paulo/SP..TV.Senado.br" tvg-logo="https://www.fontedecanais.tv/logos/canais/tvsenado.png" group-title="Canais | Abertos",TV Senado
 http://sinalmycn.com:80/632035/GqGcFV4ntu/17047
 #EXTINF:-1 tvg-id="São.Paulo/SP..Gazeta.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/tvgazeta.png" group-title="Canais | Abertos",TV Gazeta
 http://sinalmycn.com:80/632035/GqGcFV4ntu/17048
@@ -607,17 +607,17 @@ http://sinalmycn.com:80/632035/GqGcFV4ntu/24003
 http://sinalmycn.com:80/632035/GqGcFV4ntu/24004
 #EXTINF:-1 tvg-id="São.Paulo/SP..Cartoon.Network.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network SD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/24005
-#EXTINF:-1 tvg-id="São.Paulo/SP..cartoonito.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/cartoonito.png" group-title="Canais | Infantis",Cartoonito FHD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Cartoonito.HD.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/cartoonito.png" group-title="Canais | Infantis",Cartoonito FHD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/24006
-#EXTINF:-1 tvg-id="São.Paulo/SP..cartoonito.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/cartoonito.png" group-title="Canais | Infantis",Cartoonito HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Cartoonito.HD.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/cartoonito.png" group-title="Canais | Infantis",Cartoonito HD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/24007
 #EXTINF:-1 tvg-id="São.Paulo/SP..cartoonito.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/cartoonito.png" group-title="Canais | Infantis",Cartoonito SD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/24008
-#EXTINF:-1 tvg-id="Discovery Kids FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids FHD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Discovery.Kids.HD.³.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids FHD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/24009
-#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Discovery.Kids.HD.³.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids HD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/24010
-#EXTINF:-1 tvg-id="Discovery Kids SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids SD
+#EXTINF:-1 tvg-id="São.Paulo/SP..Discovery.Kids.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/discoverykids.png" group-title="Canais | Infantis",Discovery Kids SD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/24011
 #EXTINF:-1 tvg-id="São.Paulo/SP..Gloob.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/gloob.png" group-title="Canais | Infantis",Gloob FHD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/24015
@@ -679,11 +679,11 @@ http://sinalmycn.com:80/632035/GqGcFV4ntu/25012
 http://sinalmycn.com:80/632035/GqGcFV4ntu/25013
 #EXTINF:-1 tvg-id="São.Paulo/SP..Record.News..br" tvg-logo="http://www.fontedecanais.tv/logos/canais/recordnews.png" group-title="Canais | Notícias",Record News SD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/25014
-#EXTINF:-1 tvg-id="CNN Money FHD" tvg-logo="http://www.fontedecanais.tv/logos/canais/cnnmoney.png" group-title="Canais | Notícias",CNN Money FHD
+#EXTINF:-1 tvg-id="São.Paulo/SP..CNN.International.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/cnnmoney.png" group-title="Canais | Notícias",CNN Money FHD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/25015
-#EXTINF:-1 tvg-id="CNN Money HD" tvg-logo="http://www.fontedecanais.tv/logos/canais/cnnmoney.png" group-title="Canais | Notícias",CNN Money HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..CNN.Money.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/cnnmoney.png" group-title="Canais | Notícias",CNN Money HD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/25016
-#EXTINF:-1 tvg-id="CNN Money SD" tvg-logo="http://www.fontedecanais.tv/logos/canais/cnnmoney.png" group-title="Canais | Notícias",CNN Money SD
+#EXTINF:-1 tvg-id="São.Paulo/SP..CNN.Money.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/cnnmoney.png" group-title="Canais | Notícias",CNN Money SD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/25017
 #EXTINF:-1 tvg-id="São.Paulo/SP..TV.Climatempo.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/timesbrasil.png" group-title="Canais | Notícias",Times Brasil (CNBC) FHD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/25018
