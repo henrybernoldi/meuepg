@@ -344,9 +344,9 @@ http://sinalmycn.com:80/632035/GqGcFV4ntu/17037
 http://sinalmycn.com:80/632035/GqGcFV4ntu/17038
 #EXTINF:-1 tvg-id="São.Paulo/SP..SBT.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbt.png" group-title="Canais | Abertos",SBT FHD
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 tvg-id="São.Paulo/SP..SBT.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbt.png" group-title="Canais | Abertos",SBT HD
+#EXTINF:-1 tvg-id="São.Paulo/SP..SBT.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Canais | Abertos",SBT HD
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 tvg-id="São.Paulo/SP..SBT.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbt.png" group-title="Canais | Abertos",SBT SD
+#EXTINF:-1 tvg-id="São.Paulo/SP..SBT.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Canais | Abertos",SBT SD
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="São.Paulo/SP..Globo.HD.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png" group-title="Canais | Abertos",Globo São Paulo FHD
 http://sinalmycn.com:80/632035/GqGcFV4ntu/18024
