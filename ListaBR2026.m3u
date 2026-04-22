@@ -536,6 +536,8 @@ http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/438374
 http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/438374
 #EXTINF:-1 tvg-id="" tvg-name="NICKONLINE" tvg-logo="https://x1co.com.br/logo.png" group-title="Canais | Infantis",NickOnline HD
 https://x1co.com.br/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nicktoons" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJwe6wPgiTOIDvPYUCX-S2qD6cuYh7DYrzQwQGiGAafWDy7msQcpjfbBc7P4KyuwA-OeRvGO3c1KEJ47_eD-_k-hw_SLW84J3yzRvjB5BnkurXUHgRR5Qy7Nf9Slqi3jKEAIjKfLnmtimXuY_AxG26GlePiY4ZW93PRbRCmj9JikYrM_J0g1JyQBMEtLk/s1600/nicktoons.jpg" group-title="Canais | Infantis",Nicktoons
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="São.Paulo/SP..Cartoon.Network.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network FHD
 http://newoneblue.site:80/CalangoDoido2/CalangoDoido2/231451
 #EXTINF:-1 tvg-id="São.Paulo/SP..Cartoon.Network.br" tvg-logo="http://www.fontedecanais.tv/logos/canais/cartoonnetwork.png" group-title="Canais | Infantis",Cartoon Network HD
