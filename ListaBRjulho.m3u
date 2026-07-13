@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_BR2.xml.gz"
+#EXTM3U x-tvg-url="[https://raw.githubusercontent.com/iptv-com/epg/main/guides/brazil.xml](https://raw.githubusercontent.com/iptv-com/epg/main/guides/brazil.xml)"
 
 #EXTINF:-1 tvg-id="" tvg-name="CAZE TV" tvg-logo="https://koratv.app/logos/br/CAZE_TV.png" group-title="BRASIL ESPORTES",CAZE TV
 https://toptv365.com/M1vFk1dkxy/oZ7o1BTJh0/58990
